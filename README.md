@@ -3,4 +3,4 @@ Data analysis on AdventureWorksDW2012 database (MS SQL)
 
 ### Sections:
 
-[Target Mailing](https://github.com/tuhrin/AdventureWorks/tree/master/Target%20Mailing) - Finding out who buys and who doesn´t
+[Targeted Mailing](https://github.com/tuhrin/AdventureWorks/tree/master/Targeted%20Mailing) - Finding out who buys and who doesn´t
